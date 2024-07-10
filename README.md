@@ -1,6 +1,6 @@
 # Tailwind CSS Project
 
-Bem-vindo ao projeto Tailwind CSS! Este projeto utiliza o framework Tailwind CSS para criar estilos modernos e responsivos de maneira rápida e eficiente.
+Projeto com o curso Tailwind CSS Alura! Este projeto utiliza o framework Tailwind CSS para criar estilos modernos e responsivos de maneira rápida e eficiente.
 
 ## Introdução
 
@@ -38,4 +38,4 @@ O projeto pode ser visualizado em:
 - [Vercel]()
 
 ## Screenshots
-![Screenshot da tela inicial do AluraPlay](image/Screen.png)
+![Screenshot da tela inicial do NewsLetter](image/Screen.png)
