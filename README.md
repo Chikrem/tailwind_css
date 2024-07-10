@@ -6,13 +6,6 @@ Bem-vindo ao projeto Tailwind CSS! Este projeto utiliza o framework Tailwind CSS
 
 Este projeto demonstra como configurar e utilizar o Tailwind CSS em um projeto web. Tailwind CSS é um framework CSS utilitário que permite construir designs customizados diretamente na marcação HTML.
 
-## Pré-requisitos
-
-Antes de começar, certifique-se de ter os seguintes softwares instalados em seu sistema:
-
-- [Node.js](https://nodejs.org/) (versão 12 ou superior)
-- [npm](https://www.npmjs.com/) (geralmente incluído com o Node.js)
-
 ## Instalação
 
 Siga os passos abaixo para configurar o ambiente de desenvolvimento do projeto:
@@ -36,3 +29,12 @@ Para iniciar o servidor de desenvolvimento e visualizar o projeto, utilize o com
 
 ```bash
 npm run dev
+
+## Teste
+
+O projeto pode ser visualizado em:
+
+- [Vercel]()
+
+## Screenshots
+![Screenshot da tela inicial do AluraPlay](https://imgur.com/a/tVtNsbp)
