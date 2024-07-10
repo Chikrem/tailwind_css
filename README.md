@@ -29,6 +29,7 @@ Para iniciar o servidor de desenvolvimento e visualizar o projeto, utilize o com
 
 ```bash
 npm run dev
+```
 
 ## Teste
 
