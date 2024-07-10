@@ -38,4 +38,4 @@ O projeto pode ser visualizado em:
 - [Vercel]()
 
 ## Screenshots
-![Screenshot da tela inicial do AluraPlay](https://imgur.com/a/tVtNsbp)
+![Screenshot da tela inicial do AluraPlay](image/Captura de tela 2024-07-10 201910.png)
