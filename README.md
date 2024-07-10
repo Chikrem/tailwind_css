@@ -4,7 +4,7 @@ Projeto com o curso Tailwind CSS Alura! Este projeto utiliza o framework Tailwin
 
 ## Introdução
 
-Este projeto demonstra como configurar e utilizar o Tailwind CSS em um projeto web. Tailwind CSS é um framework CSS utilitário que permite construir designs customizados diretamente na marcação HTML.
+Este projeto usa Tailwind CSS em um projeto web para aplicar funcionalidades como responsividade, animações e estilos à uma página Front de NewsLetter. Tailwind CSS é um framework CSS utilitário que permite construir designs customizados diretamente na marcação HTML.
 
 ## Instalação
 
